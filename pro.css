@@ -1,0 +1,297 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  background: #292c30;
+
+}
+.skills{
+  padding-left: 100px;
+  color:white;
+}
+
+.img-fluid{
+  filter: brightness(50%);
+}
+
+.offset::before{
+  display: block;
+  content: "";
+  height: 6rem;
+}
+
+.navbar{
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0.2rem;
+  background: rgba(0,0,0,0.6) !important;
+  padding: 20px 0px;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+  color:white;
+  padding-left:20px;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover{
+  color: #3fba58;
+}
+
+.heading-content{
+  position: absolute;
+  top:60%;
+  width: 100%;
+  max-width: 100%;
+}
+
+.heading-content h5{
+  font-size: 3em;
+  font-weight: 300;
+  color: white;
+  font-family: monospace;
+}
+
+.heading-content h1{
+  font-size: 5em;
+  font-weight: bolder;
+  color: white;
+  font-family: monospace;
+}
+
+.heading-content p{
+  font-size: 1em;
+  text-transform: uppercase;
+  font-weight: lighter;
+  color: white;
+  word-spacing: 5px;
+  letter-spacing: 2px;
+  font-family: monospace;
+}
+
+#portfolio h3{
+  margin-top: 80px;
+}
+
+.productall img{
+  height: 350px;
+  width: 350px;
+}
+
+#nav2{
+  text-align: center;
+}
+#nav2 a{
+  text-decoration: none;
+  text-align: center;
+  color: grey;
+  margin-bottom: 50px;
+  margin-left: 50px;
+}
+
+.productall h5{
+  color: white;
+  text-align: center;
+  margin-top: 15px;
+}
+
+.productall p{
+  color:white;
+  font-size: 12px;
+  text-align: center;
+}
+
+#myresume h3{
+  color: white;
+}
+
+#ta{
+  margin-left: 10px;
+  margin-right: 900px;
+}
+
+#myresume .container{
+  border: 1px solid #43454a;
+  background: #43454a;
+  border-radius: 10px;
+}
+
+#rl1{
+  color:white;
+  font-size: 14px;
+}
+
+#rl2{
+  color:#9ad966;
+  font-size: 20px;
+}
+
+#rl3{
+  color:grey;
+}
+
+.abttext{
+  padding: 50px 100px 50px 100px;
+}
+
+#me{
+  font-weight: bolder;
+  color: white;
+}
+
+#about{
+  font-weight: lighter;
+  color: white;
+}
+
+#aboutp1{
+  margin-top: 30px;
+  color:grey;
+  font-size: 20px;
+}
+
+#aboutp2{
+  margin-top: 10px;
+  margin-bottom: 20px;
+  color:grey;
+  font-size: 15px;
+}
+
+#about .btn1{
+  border: 2px solid #9ad966;
+  background: #9ad966;
+  border-radius: 30px;
+  color: white;
+}
+
+#about .btn2{
+  border: 2px solid grey;
+  background: grey;
+  border-radius: 30px;
+  color: white;
+}
+
+#about .btn a{
+  color: white;
+  text-decoration: none;
+  font-size: 13px;
+  padding: 10px 17px;
+}
+
+#client h3{
+  color: white;
+  margin-bottom: 50px;
+}
+
+.clientimg{
+  height: 120px;
+  width: 60px;
+  border-radius: 20px;
+}
+
+#client .container{
+  margin-left: 10px;
+  padding: 20px 20px;
+  border: 1px solid #43454a;
+  border-radius: 5px;
+  background: #43454a;
+}
+
+.clientauthor a{
+  color:#9ad966;
+  text-decoration: none;
+}
+
+#test {
+  font-weight: bolder;
+}
+
+.testblock{
+  color: grey;
+}
+
+
+#service img{
+  height: 80px;
+  width: 100px;
+  background: #43454a;
+  border-radius: 80%;
+}
+
+#service h3{
+  color: white;
+  font-weight: lighter;
+}
+
+#sh1{
+  font-weight: 800;
+}
+
+.cb{
+  background: #43454a;
+  height: 400px;
+  padding: 50px;
+}
+
+.cb1{
+  background: #43454a;
+  height: 380px;
+  padding: 50px;
+}
+
+.card-title{
+  color:white;
+  text-align: center;
+}
+
+.card-text{
+  color:grey;
+}
+
+#blog h3{
+  color: white;
+  font-weight: lighter;
+}
+
+#getcontact h3{
+  color: white;
+  font-weight: lighter;
+}
+
+#portfolio h3{
+  color: white;
+  font-weight: lighter;
+}
+
+.card-body{
+  background: #43454a;
+  padding: 50px;
+}
+
+.getintouchbtn{
+  border: 2px solid #9ad966;
+  background: #9ad966;
+  border-radius: 30px;
+  color: white;
+  margin-top: 50px;
+}
+
+.getintouchbtn a{
+  color: white;
+  text-decoration: none;
+  font-size: 13px;
+  padding: 10px 17px;
+}
+
+.contactd p{
+  color: grey;
+  padding-left: 150px;
+}
+
+.contactd h6{
+  color: #2c4a7a;
+  padding-left: 150px;
+  font-size: 1em;
+}
+
+.form-control{
+  background: #43454a;
+}
